@@ -15,7 +15,4 @@ elif pid ==0:
     else:
         os._exit(0)
 
-else:
-    os.wait()
-    f2()
 

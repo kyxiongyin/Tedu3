@@ -1,3 +1,6 @@
+"""
+第一种方案
+"""
 import os,sys
 
 # os._exit(0)
