@@ -14,8 +14,7 @@ else:
     time.sleep(1)
     print('this is old process')
     print('a=', a)
-print('fork test over')
-print('ALL a=',a)
+
 
 
 
