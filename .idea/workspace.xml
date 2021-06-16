@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e838bca-25b8-41bf-b4bd-eeb73f9fded8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/child.py" beforeDir="false" afterPath="$PROJECT_DIR$/child.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/exit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jame" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,5 +46,11 @@
       <updated>1623808266511</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="290" width="780" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623824417186">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="598" y="290" width="780" height="402" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.930@67.27.1853.930" timestamp="1623824417186" />
   </component>
 </project>
