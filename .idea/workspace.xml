@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e838bca-25b8-41bf-b4bd-eeb73f9fded8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/day12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fork.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_pid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zombie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/child.py" beforeDir="false" afterPath="$PROJECT_DIR$/child.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
