@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2e838bca-25b8-41bf-b4bd-eeb73f9fded8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/jame" afterDir="false" />
     </list>
+=======
+    <list default="true" id="2e838bca-25b8-41bf-b4bd-eeb73f9fded8" name="Default Changelist" comment="" />
+>>>>>>> Tom_dew
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
